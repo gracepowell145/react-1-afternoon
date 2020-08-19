@@ -1,4 +1,4 @@
-<img src="https://s3.amazonaws.com/devmountain/readme-logo.png" width="250" align="right">
+npm<img src="https://s3.amazonaws.com/devmountain/readme-logo.png" width="250" align="right">
 
 # Project Summary
 
@@ -18,10 +18,10 @@ In this project we will create a react application that solves computer science 
 
 ## Setup
 
-* `Fork` and `clone` this repository.
-* `cd` into the project directory.
+* `Fork` and `clone` this repository. ///check
+* `cd` into the project directory. ///check
 * Run `npm install`.
-* After `npm install` has finished run `npm start`.
+* After `npm install` has finished run `npm start`
 
 ## Step 1
 
