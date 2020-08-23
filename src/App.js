@@ -7,6 +7,11 @@ class App extends Component {
   render() {
     return(
     <TopicBrowser/>
+    // <EvanandOdd/>
+    // <FilerObject/>
+    // <FilterString/>
+    // <Palindrome/>
+    // <Sum/>
     )
   }
 }
